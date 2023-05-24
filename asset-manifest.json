@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/For_Me/static/css/main.7acaea2f.css",
+    "main.js": "/For_Me/static/js/main.07d3183d.js",
+    "index.html": "/For_Me/index.html",
+    "main.7acaea2f.css.map": "/For_Me/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/For_Me/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
